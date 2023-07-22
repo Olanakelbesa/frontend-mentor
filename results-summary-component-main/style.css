@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Hanken Grotesk', sans-serif;
+    padding-top: 100px;
+    min-height: 300vh;
+    background-color: hsl(240, 18%, 96%);
+}
+.container{
+    max-width: 520px;
+    height: 350px;
+    margin: auto;
+}
+.card-1{
+    background-color: rgb(103, 50, 247);
+    position: relative;
+    width: 250px;
+    border-radius: 20px;
+}
+.sum{
+    padding: 30px 0 30px 80px;
+    color: hsl(241, 100%, 89%);
+}
+h1{
+    color: hsl(0, 0%, 100%);
+}
+.p1{
+    color: hsl(241, 44%, 71%);
+    font-size: 13px;
+}
+h3{
+    padding: 20px 0 10px 100px;
+    color: hsl(0, 0%, 100%);
+}
+.p2{
+    color: hsl(241, 100%, 89%);
+    text-align: center;
+    padding: 0 25px 30px;
+}
+.circle{
+    background-color: hsl(252, 70%, 42%);
+    padding: 30px;
+    border-radius: 100px;
+    border: none;
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+}
+.card-2{
+    width: 270px;
+    height: 340px;
+    position: relative;
+    left: 250px;
+    bottom: 337px;
+    border-radius: 20px;
+    background-color: white;
+}
+h4 {
+    padding: 30px;
+}
+.reaction{
+    background-color: hsl(0, 77%, 95%);
+    height: 30px;
+    width: 230px;
+    margin: 0 20px 20px;
+    border-radius: 5px;
+}
+.re-img {
+    position: relative;
+    top: 4px;
+}
+.re{
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+    color: hsl(0, 100%, 67%);
+}
+.p3{
+    position: relative;
+    left: 170px;
+    bottom: 37px;
+    width: 50px;
+    font-size: 13px;
+}
+.reaction{
+    background-color: hsl(0, 77%, 95%);
+    height: 30px;
+    width: 230px;
+    margin: 0 20px 20px;
+    border-radius: 5px;
+}
+.re-img {
+    position: relative;
+    top: 4px;
+}
+.re{
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+    color: hsl(0, 100%, 67%);
+}
+.p3{
+    position: relative;
+    left: 170px;
+    bottom: 37px;
+    width: 50px;
+    font-size: 13px;
+}
+.Memory{
+    background-color: hsl(37, 33%, 92%);
+    height: 30px;
+    width: 230px;
+    margin: 0 20px 20px;
+    border-radius: 5px;
+}
+.me-img {
+    position: relative;
+    top: 4px;
+}
+.me{
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+    color: hsl(39, 100%, 56%);
+}
+.me-p{
+    position: relative;
+    left: 170px;
+    bottom: 37px;
+    width: 50px;
+    font-size: 13px;
+}
+.Verbal{
+    background-color: hsl(165, 60%, 89%);
+    height: 30px;
+    width: 230px;
+    margin: 0 20px 20px;
+    border-radius: 5px;
+}
+.ve-img {
+    position: relative;
+    top: 4px;
+}
+.ve{
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+    color: hsl(166, 100%, 37%);
+}
+.ve-p{
+    position: relative;
+    left: 170px;
+    bottom: 37px;
+    width: 50px;
+    font-size: 13px;
+}
+.Visual{
+    background-color:  hsl(231, 29%, 91%);
+    height: 30px;
+    width: 230px;
+    margin: 0 20px 20px;
+    border-radius: 5px;
+}
+.vi-img {
+    position: relative;
+    top: 4px;
+}
+.vi{
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+    color:  hsl(234, 85%, 45%);
+}
+.vi-p{
+    position: relative;
+    left: 170px;
+    bottom: 37px;
+    width: 50px;
+    font-size: 13px;
+}
+button{
+    margin: 0 20px 30px;
+    width: 230px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: hsl(224, 30%, 27%);
+    color: white;
+}
+
